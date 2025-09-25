@@ -20,9 +20,10 @@ public class CalculadoraMediaEscolar {
         if (media >= 7.0) {
             System.out.println("Parabéns, você é um gênio!");
         } else {
-            System.out.println("Você é burro, estude mais.");
+            System.out.println("Reprovado, estude mais.");
         }
 
         scanner.close();
     }
 }
+
